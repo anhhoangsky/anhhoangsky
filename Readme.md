@@ -50,3 +50,4 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 --->
 ---
+![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=anhhoangsky&show_icons=true&hide_border=true)
